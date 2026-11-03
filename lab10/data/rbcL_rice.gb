@@ -1,0 +1,78 @@
+LOCUS       LT576846                1389 bp    DNA     linear   PLN 20-JUL-2016
+DEFINITION  Oryza sativa Japonica Group chloroplast rbcL gene for Rubisco large
+            subunit, cultivar Nipponbare.
+ACCESSION   LT576846
+VERSION     LT576846.1
+KEYWORDS    .
+SOURCE      chloroplast Oryza sativa Japonica Group (Japanese rice)
+  ORGANISM  Oryza sativa Japonica Group
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Oryzoideae; Oryzeae; Oryzinae; Oryza; Oryza sativa.
+REFERENCE   1
+  AUTHORS   Orr,D.J., Alcantara,A., Kapralov,M.V., Andralojc,P.J.,
+            Carmo-Silva,A.E. and Parry,M.A.J.
+  TITLE     Naturally better Rubiscos for improving crop photosynthetic
+            efficiency at a range of temperatures
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1389)
+  AUTHORS   Orr,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2016) Lancaster Environment Centre, West Common,
+            Library Avenue, Lancaster University, Lancaster, Lancashire, LA1
+            4YQ, UNITED KINGDOM
+FEATURES             Location/Qualifiers
+     source          1..1389
+                     /organism="Oryza sativa Japonica Group"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /cultivar="Nipponbare"
+                     /db_xref="taxon:39947"
+                     /PCR_primers="fwd_name: rbcL_F2, fwd_seq:
+                     taattcatgagttgtagggaggg, rev_name: cp063R, rev_seq:
+                     tttccatacttcacaagcagcagctag"
+     gene            1..>1389
+                     /gene="rbcL"
+     CDS             1..>1389
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="SBO07527.1"
+                     /translation="MSPQTETKASVGFKAGVKDYKLTYYTPEYETKDTDILAAFRVTP
+                     QPGVPPEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYHIEPVVGEDNQYIAYVA
+                     YPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPPTYSKTFQGPPHGIQVERD
+                     KLNKYGRPLLGCTIKPKLGLSAKNYGRACYECLRGGLDFTKDDENVNSQPFMRWRDRF
+                     VFCAEAIYKSQAETGEIKGHYLNATAGTCEEMIKRAVFARELGVPIVMHDYLTGGFTA
+                     NTSLAHYCRDNGLLLHIHRAMHAVIDRQKNHGMHFRVLAKALRMSGGDHIHAGTVVGK
+                     LEGEREMTLGFVDLLRDDFIEKDRARGIFFTQDWVSMPGVIPVASGGIHVWHMPALTE
+                     IFGDDSVLQFGGGTLGHPWGNAPGAAANRVALEACVQARNEGRDLAREGNEIIRSACK
+                     WSPELAAACEIWK"
+ORIGIN      
+        1 atgtcaccac aaacagaaac taaagcaagt gttggattta aagctggtgt taaggattat
+       61 aaattgactt actacacccc ggagtacgaa accaaggaca ctgatatctt ggcagcattc
+      121 cgagtaactc ctcagccggg ggttccgccc gaagaagcag gggctgcagt agctgccgaa
+      181 tcttctactg gtacatggac aactgtttgg actgatggac ttaccagtct tgatcgttac
+      241 aaaggccgat gctatcacat cgagcccgtt gttggggagg ataatcaata tatcgcttat
+      301 gtagcttatc cattagacct atttgaagag ggttctgtta ctaacatgtt tacttccatt
+      361 gtgggtaacg tatttggttt caaagcccta cgcgctctac gtctggagga tctgcgaatt
+      421 ccccctactt attcaaaaac tttccaaggt ccgcctcatg gtatccaagt tgaaagggat
+      481 aagttgaaca aatacggtcg tcctttattg ggatgtacta ttaaaccaaa attgggatta
+      541 tctgcaaaaa attatggtag agcatgttat gagtgtctac gcggtggact tgattttacc
+      601 aaagatgatg aaaacgtaaa ctcacaacca tttatgcgtt ggagggaccg ttttgtcttt
+      661 tgtgccgaag ctatttataa atcacaggcc gaaaccggtg aaattaaggg gcattacttg
+      721 aatgcgactg caggtacatg cgaagaaatg attaaaagag ctgtatttgc gagggaatta
+      781 ggggttccta ttgtaatgca tgactactta accggggggt tcaccgcaaa tactagtttg
+      841 gctcattatt gccgcgacaa cggcctactt cttcacattc accgagcaat gcatgcagtt
+      901 attgatagac agaaaaatca tggtatgcat ttccgtgtat tagctaaagc attgcgtatg
+      961 tctgggggag atcatatcca cgctggtaca gtagtaggta agttagaagg ggaacgcgaa
+     1021 atgactttag gttttgttga tttattgcgc gatgatttta ttgaaaaaga tcgtgctcgc
+     1081 ggtatctttt tcactcagga ctgggtatcc atgccaggtg ttataccggt ggcttcaggg
+     1141 ggtattcatg tttggcatat gccagctctg accgaaatct ttggagatga ttctgtattg
+     1201 caatttggtg gaggaacttt aggacatcct tggggtaatg cacctggtgc agcagctaat
+     1261 cgggtggctt tagaagcctg tgtacaagct cgtaacgaag ggcgcgatct tgctcgtgaa
+     1321 ggtaatgaaa ttatccgatc agcttgcaaa tggagtcctg aactagctgc tgcttgtgaa
+     1381 atatggaaa
+//
+

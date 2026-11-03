@@ -1,0 +1,76 @@
+LOCUS       MT416077                1458 bp    DNA     linear   PLN 27-DEC-2023
+DEFINITION  Panax ginseng isolate farm collection 5 chloroplast, complete
+            genome.
+ACCESSION   MT416077 REGION: 57343..58800
+VERSION     MT416077.1
+KEYWORDS    .
+SOURCE      chloroplast Panax ginseng (ginseng)
+  ORGANISM  Panax ginseng
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; campanulids; Apiales; Araliaceae; Panax.
+REFERENCE   1  (bases 1 to 1458)
+  AUTHORS   Jang,W., Jang,Y., Cho,W., Lee,S.H., Xu,J., Shen,X., Liao,B. and
+            Yang,T.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2020) Crop Science and Biotechnology. Department
+            of Plant Science, Lab of Functional Crop Genomics & Biotechnology,
+            200-4102, 599 Gwanakro, Seoul, Gwanak-gu 151-921, Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC genome assembler v. v. beta 4.6
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1458
+                     /organism="Panax ginseng"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /isolate="farm collection 5"
+                     /db_xref="taxon:4054"
+                     /geo_loc_name="South Korea"
+     gene            1..1458
+                     /gene="rbcL"
+     CDS             1..1458
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="WQN03698.1"
+                     /translation="MSCREGFMSPQTETKASVGFKAGVKDYKLTYYTPDYDPKDTDIL
+                     AAFRVTPQPGVPAEEAGAAVAAESSTGTWTTVWTDGLTSLDRYKGRCYKIEPVAGEET
+                     QFIAYVAYPLDLFEEGSVTNMFTSIVGNVFGFKALRALRLEDLRIPVAYVKTFQGPPH
+                     GIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGRAVYECLRGGLDFTKDDENVNSQPF
+                     MRWRDRFLFCAEALYKAQAETGEIKGHYLNATAGTCEDMMKRAVFARELGVPIVMHDY
+                     ITGGFTANTTLAHYCRDNGLLLHIHRAMHAVIDRQKNHGMHFRVLAKALRMSGGDHIH
+                     SGTVVGKLEGERDITLGFVDLLRDDFIEKDRSRGIYFTQDWVSLPGVLPVASGGIHVW
+                     HMPALTEIFGDDSVLQFGGGTLGHPWGNAPGAVANRVALEACVQARNEGRDLAREGNE
+                     IIREAAKWSPELAAACEVWKEIKFEFEAVDILDVV"
+ORIGIN      
+        1 atgagttgta gggagggatt tatgtcacca caaacagaga ctaaagcaag tgttggattc
+       61 aaagctggtg ttaaagatta caaattgact tattatactc ctgactatga tcccaaagat
+      121 actgatatct tggcagcatt ccgagtaact cctcaacctg gagttccagc tgaagaagca
+      181 ggggccgcgg tagctgccga atcttctact ggtacatgga caactgtgtg gaccgatgga
+      241 cttactagcc ttgatcgtta caaagggcga tgctacaaaa tagagcccgt tgctggagaa
+      301 gaaactcaat ttattgctta tgtagcttac ccattagacc tttttgaaga aggttctgtt
+      361 actaacatgt ttacttccat tgtaggtaat gtatttgggt tcaaagccct gcgtgctcta
+      421 cgtctggaag atctgcgaat ccctgttgct tatgttaaaa ctttccaagg cccgcctcat
+      481 ggcatccaag ttgagagaga taaattgaac aagtatggtc gtcccctgtt gggatgtact
+      541 attaaaccta aattggggtt atctgctaaa aactacggta gagcggttta tgaatgtctc
+      601 cggggtggac ttgattttac caaagacgat gagaacgtga actcacaacc atttatgcgt
+      661 tggagagatc gtttcttatt ttgtgccgaa gcactttata aagcacaggc tgaaacaggt
+      721 gaaatcaaag ggcattactt gaatgctact gcgggtacat gcgaagacat gatgaaaagg
+      781 gctgtatttg ccagagaatt gggagttcct atcgtaatgc atgattacat aacaggggga
+      841 ttcaccgcaa atactacctt ggctcattat tgccgagata atggcctact tcttcacatc
+      901 caccgcgcaa tgcatgcagt tattgataga cagaagaatc atggtatgca ctttcgtgta
+      961 ctagctaaag cgttacgtat gtctggtgga gatcatattc actccggtac cgtagtaggt
+     1021 aaacttgaag gggaaagaga catcactttg ggctttgttg atttactgcg tgatgatttc
+     1081 attgaaaaag atcgaagtcg cggtatttat ttcacccaag attgggtctc tctaccaggt
+     1141 gttctgcccg tggcttcggg gggtattcac gtttggcata tgcctgctct gaccgagatc
+     1201 tttggggatg attccgtact acagttcggt ggaggaactt taggacaccc ttggggaaat
+     1261 gcacccggtg ccgtagctaa tcgagtagct ctagaagcat gtgtacaagc tcgtaatgag
+     1321 ggacgtgatc ttgctcgtga aggtaatgaa attatccgcg aggctgctaa atggagccct
+     1381 gaactagctg ctgcttgtga ggtatggaag gagatcaaat ttgaatttga agcagtggat
+     1441 attttggatg ttgtgtaa
+//
+
