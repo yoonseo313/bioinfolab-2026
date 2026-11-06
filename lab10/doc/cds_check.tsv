@@ -1,0 +1,9 @@
+file	version	organism	cds_location	translation_match
+rbcL_arabidopsis.gb	KU739560.1	Arabidopsis thaliana	<1..>1408	MATCH
+rbcL_fern.gb	MW620303.1	Adiantum capillus-veneris	<1..>1308	MATCH
+rbcL_ginkgo.gb	KF221173.1	Ginkgo biloba	<1..>1317	MATCH
+rbcL_ginseng.gb	MT416077.1	Panax ginseng	1..1458	MATCH
+rbcL_liverwort.gb	LC536762.1	Marchantia polymorpha subsp. ruderalis	<1..1399	MATCH
+rbcL_maize.gb	Z11973.1	Zea mays	1..1431	MATCH
+rbcL_pine.gb	JQ512595.1	Pinus thunbergii	1..1428	MATCH
+rbcL_rice.gb	LT576846.1	Oryza sativa Japonica Group	1..>1389	MATCH
